@@ -1,0 +1,272 @@
+/*
+====================================================================================================================================================================
+                                                    Start Slideshow Properties 
+====================================================================================================================================================================
+*/
+
+section#content {
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 600px;
+
+}
+
+img#slide {
+    width: 100%;
+    height: auto;
+}
+
+/*
+====================================================================================================================================================================
+                                                    End Slideshow Properties 
+====================================================================================================================================================================
+*/
+
+
+/*
+====================================================================================================================================================================
+                                                    Start Featured Courses Properties 
+====================================================================================================================================================================
+*/
+
+
+
+
+div.course {
+    width: 400px;
+    height: 530px;
+    opacity : 0.3;
+    
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(173, 168, 168);
+    position: absolute;
+    top: 1100px;
+    left: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.course:hover{
+
+
+    opacity: 0.8;
+    background-color: rgb(197, 188, 188);
+}
+
+.course2:hover{
+
+    opacity: 0.8;
+    background-color: rgb(197, 188, 188);
+}
+.course3:hover{
+
+
+    opacity: 0.8;
+    background-color: rgb(197, 188, 188);
+
+}
+
+div.course2 {
+    width: 400px;
+    height: 530px;
+    opacity : 0.3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(173, 168, 168);
+    position: absolute;
+    top: 1100px;
+
+    left: 640px;
+}
+
+div.course3 {
+    width: 400px;
+    height: 530px;
+    opacity : 0.3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(173, 168, 168);
+    position: absolute;
+    top: 1100px;
+
+    left: 1100px;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+/*
+====================================================================================================================================================================
+                                                    End Featured Courses Properties 
+====================================================================================================================================================================
+*/
+
+
+/*
+====================================================================================================================================================================
+                                                    Start About Section Properties 
+====================================================================================================================================================================
+*/
+
+section#about {
+    width: 100%;
+    height: 509px;
+    background: #252525;
+    position: absolute;
+    top: 1800px;
+    left: 0;
+}
+
+div.about {
+	color: white;
+	text-align: center;
+}
+
+div.students {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 180px;
+}
+
+div.reviews {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 540px;
+} 
+
+div.courses {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 900px;
+}
+
+div.content {
+    width: 300px;
+    height: 200px;
+    background: black;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 212px;
+    left: 1270px;
+}
+
+/*
+====================================================================================================================================================================
+                                                    End About Section Properties 
+====================================================================================================================================================================
+*/
+
+/*
+====================================================================================================================================================================
+                                                    Start Learn Tech Section Properties 
+====================================================================================================================================================================
+*/
+
+div.learntechnow {
+    width: 400px;
+    height: 530px;
+    background: rgb(185, 182, 182);;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2500px;
+    left: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid black;
+    opacity:0.35;
+}
+div.learntechnow:hover{
+    opacity: 0.9;
+}
+div.learntechpodcast:hover{
+    opacity: 0.9;
+}
+div.learntechblog:hover{
+    opacity: 0.9;
+}
+
+
+div.learntechpodcast {
+    width: 400px;
+    height: 530px;
+    background: rgb(185, 182, 182);;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 2500px;
+    opacity: 0.35;
+    border: 2px solid black;
+    left: 650px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div.learntechblog {
+    width: 400px;
+    height: 530px;
+    background: rgb(185, 182, 182);;
+    border: 1px solid transparent;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 2500px;
+    border: 2px solid black;
+    opacity : 0.35;
+    left: 1100px;
+}
+
+.h1lt {
+
+    position: absolute;
+    top: 2320px;
+    left: 670px;
+
+}
+
+/*
+====================================================================================================================================================================
+                                                    End Learn Tech Section Properties 
+====================================================================================================================================================================
+*/
+
+/*
+====================================================================================================================================================================
+                                                    Start Footer
+====================================================================================================================================================================
+*/
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 3100px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+
+/*
+====================================================================================================================================================================
+                                                    End Footer
+====================================================================================================================================================================
+*/
+
